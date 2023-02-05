@@ -1,2 +1,3 @@
-# .github
-✨special ✨ repository for presenting organzation profile and new idea discussions
+# Tam's Lab
+
+The Developers Laboratory
