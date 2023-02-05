@@ -1,3 +1,1 @@
-# Tam's Lab
-
-The Developers Laboratory
+# The Developers Laboratory
